@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ari-brin-7b7098295/) · [Email](mailto:ari.brin@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ari-brin-7b7098295/) · [Portfolio](https://aribrin-portfolio.web.app/) · [Email](mailto:ari.brin@gmail.com) 
 
 ---
 
