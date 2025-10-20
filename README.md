@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ari Brin
 
-<!--
-**aribrin/aribrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a software developer passionate about **AI agents**, **backend systems**, and **developer tools**.  
+🌱 Currently building open-source projects using **Node.js**, **PostgreSQL**, and **Python**.  
+🚀 My goal is to make AI workflows more accessible and transparent for new developers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Projects I’m Proud Of
+
+- 📊 [**AgentGuide**](https://github.com/aribrin/AgentGuide) — Open-source platform to visualize and asses agentic workflows.
+- 🧰 [**Credible**](https://apps.apple.com/us/app/credible/id6749787117) — AI-Powered Fact Cheking App. 
+- 🧠 [**OpenSimRL**](https://github.com/aribrin/opensimrl) — A reinforcement learning simulation framework built with Pytorch.
+
+---
+
+### ⚙️ Tech Stack
+`Python` · `Node.js` · `TypeScript` · `PostgreSQL` · `Docker` · `AWS Lambda` · `CrewAI`
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/ari-brin) · [Email](mailto:ari.brin@gmail.com)
+
+---
+
+> “Build things that teach you something new.”
+
