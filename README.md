@@ -9,7 +9,7 @@
 ### 🧩 Projects I’m Proud Of
 
 - 📊 [**AgentGuide**](https://github.com/aribrin/AgentGuide) — Open-source platform to visualize and asses agentic workflows.
-- 🧰 [**Credible**](https://apps.apple.com/us/app/credible/id6749787117) — AI-Powered Fact Cheking App built with React-Native and Typescript. 
+- 🧰 [**Credible**](https://apps.apple.com/us/app/credible/id6749787117) — AI-Powered Fact Checking App built with React-Native and Typescript. 
 - 🧠 [**OpenSimRL**](https://github.com/aribrin/opensimrl) — A reinforcement learning simulation framework built with Pytorch.
 
 ---
